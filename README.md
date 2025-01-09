@@ -1,7 +1,5 @@
 <h1>Tiny Virtual Machine</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 This program is a simple simulation of a Tiny Harvard Architecture machine. It reads a set of instructions
 from a file and executes them, simulating the behavior of a basic processor. The simulation includes an
